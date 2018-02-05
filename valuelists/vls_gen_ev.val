@@ -1,0 +1,9 @@
+addEmptyValue:1,
+customValues:"Centesimi | 0\r
+Volte | 1\r
+Sessantrsimi | 2",
+name:"vls_gen_ev",
+returnDataProviders:1,
+showDataProviders:1,
+typeid:34,
+uuid:"21315874-CB8C-475B-86BB-A4355292D363"

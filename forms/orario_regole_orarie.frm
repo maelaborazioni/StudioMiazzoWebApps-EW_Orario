@@ -1,0 +1,15 @@
+dataSource:"db:/ma_presenze/e2regole",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"DD1B5DE3-2ED1-4302-932C-C65DFDF0E2ED"
+}
+],
+name:"orario_regole_orarie",
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"4F42BD26-3E44-4372-83D4-2F69EE6B2C0E"

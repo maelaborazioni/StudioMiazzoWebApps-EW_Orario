@@ -1,0 +1,8 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_presenze/e2regole",
+joinType:1,
+name:"e2regole_to_e2regole",
+primaryDataSource:"db:/ma_presenze/e2regole",
+typeid:22,
+uuid:"CBF98EEB-1DC6-4450-B91E-B33A42BFB0F2"

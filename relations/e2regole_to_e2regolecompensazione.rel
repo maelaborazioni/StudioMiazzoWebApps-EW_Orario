@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2regolecompensazione",
+items:[
+{foreignColumnName:"idditta",operator:0,primaryDataProviderID:"idditta",typeid:23,uuid:"D23AF360-C8F3-499C-AA9B-1B9DCEEA7EE2"}
+],
+joinType:1,
+name:"e2regole_to_e2regolecompensazione",
+primaryDataSource:"db:/ma_presenze/e2regole",
+typeid:22,
+uuid:"DF20315D-CDF6-487D-9909-39C7588BC8DD"

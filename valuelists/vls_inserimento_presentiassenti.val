@@ -1,0 +1,9 @@
+addEmptyValue:1,
+customValues:"0 - Non viene inserita | 0\r
+1 - Inserita come presente (senso = 0) | 1\r
+2 - Inserita considerando il senso | 2",
+name:"vls_inserimento_presentiassenti",
+returnDataProviders:1,
+showDataProviders:1,
+typeid:34,
+uuid:"03F835D7-0BB0-4488-B79E-D473C3C05A6F"

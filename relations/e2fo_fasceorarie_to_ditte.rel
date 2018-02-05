@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:true,
+foreignDataSource:"db:/ma_anagrafiche/ditte",
+items:[
+{foreignColumnName:"idditta",operator:0,primaryDataProviderID:"idassenza",typeid:23,uuid:"303187B2-4C78-48D8-862A-DC2F3DEB8E06"}
+],
+joinType:1,
+name:"e2fo_fasceorarie_to_ditte",
+primaryDataSource:"db:/ma_presenze/e2fo_fasceorarie",
+typeid:22,
+uuid:"4F67D9B1-6221-4E33-B9B1-89B531C13218"

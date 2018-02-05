@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2tipoconteggiosecco",
+items:[
+{foreignColumnName:"codtipoconteggiosecco",operator:0,primaryDataProviderID:"tipoconteggiosecco",typeid:23,uuid:"ACF1C7B1-8C94-4652-93FD-7849A4F3611D"}
+],
+joinType:1,
+name:"e2fo_fasceorarie_to_e2tipoconteggiosecco",
+primaryDataSource:"db:/ma_presenze/e2fo_fasceorarie",
+typeid:22,
+uuid:"49680B51-0D6F-49A2-A681-893774D7DE8C"

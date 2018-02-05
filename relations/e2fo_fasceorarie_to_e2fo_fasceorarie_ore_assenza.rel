@@ -1,0 +1,7 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/ma_presenze/e2fo_fasceorarie",
+joinType:1,
+name:"e2fo_fasceorarie_to_e2fo_fasceorarie_ore_assenza",
+primaryDataSource:"db:/ma_presenze/e2fo_fasceorarie",
+typeid:22,
+uuid:"45DA7B2D-D457-4870-BED1-E401D0192C36"

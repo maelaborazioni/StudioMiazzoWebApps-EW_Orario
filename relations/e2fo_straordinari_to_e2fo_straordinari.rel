@@ -1,0 +1,9 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2fo_straordinari",
+joinType:1,
+name:"e2fo_straordinari_to_e2fo_straordinari",
+primaryDataSource:"db:/ma_presenze/e2fo_straordinari",
+typeid:22,
+uuid:"11049EE0-41B0-4512-B780-64C9A1A67979"

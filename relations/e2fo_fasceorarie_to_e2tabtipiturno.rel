@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/ma_presenze/e2tabtipiturno",
+items:[
+{foreignColumnName:"idtabtipiturno",operator:0,primaryDataProviderID:"idtabtipiturno",typeid:23,uuid:"FFD62CBF-6FC5-4ED8-8378-8B55664B865A"}
+],
+joinType:1,
+name:"e2fo_fasceorarie_to_e2tabtipiturno",
+primaryDataSource:"db:/ma_presenze/e2fo_fasceorarie",
+typeid:22,
+uuid:"199FC8F6-2D59-42A0-A71B-56A36725101B"

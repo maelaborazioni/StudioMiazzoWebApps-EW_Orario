@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2eventi",
+items:[
+{foreignColumnName:"idevento",operator:0,primaryDataProviderID:"ideventodagenerare",typeid:23,uuid:"ED0AE6D7-BDA0-4C1C-B5C3-93601B5A421F"}
+],
+joinType:1,
+name:"e2timbratureserviziogestione_to_e2eventi",
+primaryDataSource:"db:/ma_presenze/e2timbratureserviziogestione",
+typeid:22,
+uuid:"09203A8C-439C-448C-9D0F-502757129902"

@@ -1,0 +1,8 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2fo_generaeventi",
+joinType:1,
+name:"e2fo_generaeventi_to_e2fo_generaeventi",
+primaryDataSource:"db:/ma_presenze/e2fo_generaeventi",
+typeid:22,
+uuid:"678A0DC9-D7CE-4957-B7E1-252A76BFC356"

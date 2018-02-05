@@ -1,0 +1,8 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2fo_assenze",
+joinType:1,
+name:"e2fo_assenze_to_e2fo_assenze",
+primaryDataSource:"db:/ma_presenze/e2fo_assenze",
+typeid:22,
+uuid:"89BB3F1A-0BFA-472F-850D-1DB7F13D2E8F"

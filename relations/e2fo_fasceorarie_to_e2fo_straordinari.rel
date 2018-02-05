@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2fo_straordinari",
+items:[
+{foreignColumnName:"idstraordinario",operator:0,primaryDataProviderID:"idstraordinario",typeid:23,uuid:"5CB71642-4999-4192-9900-0EFFB2A9230E"}
+],
+joinType:1,
+name:"e2fo_fasceorarie_to_e2fo_straordinari",
+primaryDataSource:"db:/ma_presenze/e2fo_fasceorarie",
+typeid:22,
+uuid:"69F17C9A-B5B8-4B6C-B914-F8F7C5C0E3E7"

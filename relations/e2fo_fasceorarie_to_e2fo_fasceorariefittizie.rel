@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+allowParentDeleteWhenHavingRelatedRecords:false,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_presenze/e2fo_fasceorariefittizie",
+items:[
+{foreignColumnName:"idfasciaoraria",primaryDataProviderID:"idfasciaoraria",typeid:23,uuid:"DA002A97-33AD-485E-9A86-F21BD638C157"}
+],
+name:"e2fo_fasceorarie_to_e2fo_fasceorariefittizie",
+primaryDataSource:"db:/ma_presenze/e2fo_fasceorarie",
+typeid:22,
+uuid:"63E60A80-0CBF-4D5C-8CDB-0E689E9FBE2D"

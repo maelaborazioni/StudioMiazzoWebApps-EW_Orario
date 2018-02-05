@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2fo_straordinari",
+items:[
+{foreignColumnName:"idditta",operator:0,primaryDataProviderID:"idditta",typeid:23,uuid:"90979031-AEE1-46A3-87DF-0A52C9F5F06F"}
+],
+joinType:1,
+name:"ditte_to_e2fo_straordinari",
+primaryDataSource:"db:/ma_anagrafiche/ditte",
+typeid:22,
+uuid:"51B339CD-87D4-4477-BE46-D0FD25D87C87"

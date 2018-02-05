@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2eventi",
+items:[
+{foreignColumnName:"idevento",operator:0,primaryDataProviderID:"idevufinoa",typeid:23,uuid:"0E9D00CC-0708-469D-9F5C-41DD6DF7CFDD"}
+],
+joinType:1,
+name:"e2fo_generaeventi_to_e2eventi_in_uscita",
+primaryDataSource:"db:/ma_presenze/e2fo_generaeventi",
+typeid:22,
+uuid:"187E09F3-3FCA-49D1-8307-DE91654FE3A4"

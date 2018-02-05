@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2fo_aggiuntaeventi",
+items:[
+{foreignColumnName:"idaggiuntaeventi",operator:0,primaryDataProviderID:"idaggiuntaeventi",typeid:23,uuid:"55FAFA32-61E0-4160-8989-05BB39F1E758"}
+],
+joinType:1,
+name:"e2fo_fasceaggiuntaeventi_to_e2fo_aggiuntaeventi",
+primaryDataSource:"db:/ma_presenze/e2fo_fasceaggiuntaeventi",
+typeid:22,
+uuid:"D786BC89-B7E1-4C02-9BCE-D7A638AB8F61"

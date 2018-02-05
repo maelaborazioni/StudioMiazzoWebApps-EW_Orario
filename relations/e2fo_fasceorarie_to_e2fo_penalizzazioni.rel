@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2fo_penalizzazioni",
+items:[
+{foreignColumnName:"idpenalizzazione",operator:0,primaryDataProviderID:"idpenalizzazione",typeid:23,uuid:"D07648B2-B006-429B-81BF-E29F712D5C4F"}
+],
+joinType:1,
+name:"e2fo_fasceorarie_to_e2fo_penalizzazioni",
+primaryDataSource:"db:/ma_presenze/e2fo_fasceorarie",
+typeid:22,
+uuid:"4ED12202-8A46-44B4-86B0-D085696CE2D1"

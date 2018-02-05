@@ -1,0 +1,15 @@
+dataSource:"db:/ma_presenze/e2fo_fasceorarie",
+extendsID:"3C076162-6D45-4034-9F27-2ADA00E4841B",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"BDC3B86F-4979-4D2C-B88F-03614817C5F7"
+}
+],
+name:"orario_fasce_orarie",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"447E6044-BEC9-4ACB-8CE8-E2A3DFE4595C"

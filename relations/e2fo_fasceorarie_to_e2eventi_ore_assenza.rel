@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/ma_presenze/e2eventi",
+items:[
+{foreignColumnName:"idevento",operator:0,primaryDataProviderID:"idevseccoassen",typeid:23,uuid:"A19249F0-0EE2-49D2-AF5F-4965C2EB1C0C"}
+],
+joinType:1,
+name:"e2fo_fasceorarie_to_e2eventi_ore_assenza",
+primaryDataSource:"db:/ma_presenze/e2fo_fasceorarie",
+typeid:22,
+uuid:"26AFC526-BB72-42B0-9D51-9A564DF436BF"

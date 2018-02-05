@@ -1,0 +1,8 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2fo_compensazioni",
+joinType:1,
+name:"e2fo_compensazioni_to_e2fo_compensazioni",
+primaryDataSource:"db:/ma_presenze/e2fo_compensazioni",
+typeid:22,
+uuid:"C578E95C-53CD-441E-A24A-C9F3062F071F"

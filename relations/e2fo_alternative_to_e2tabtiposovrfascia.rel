@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2tabtiposovrfascia",
+items:[
+{foreignColumnName:"idtabtiposovrfascia",operator:0,primaryDataProviderID:"idtabtiposovrfascia",typeid:23,uuid:"1B5F57A8-AAE2-4F81-B278-4BA65471EE82"}
+],
+joinType:1,
+name:"e2fo_alternative_to_e2tabtiposovrfascia",
+primaryDataSource:"db:/ma_presenze/e2fo_alternative",
+typeid:22,
+uuid:"235843DE-6050-4815-90B0-76C646E3C8BA"

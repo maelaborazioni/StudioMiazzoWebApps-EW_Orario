@@ -1,0 +1,10 @@
+addEmptyValue:1,
+customValues:"0 - Ignora | 0\r
+1 - Sostituisci con causalizzata | 1\r
+2 - Sostituisci con il riferimento più vicino | 2\r
+3 - Sostituisci con il riferimento più lontano | 3",
+name:"vls_gest_caus_estremi",
+returnDataProviders:1,
+showDataProviders:1,
+typeid:34,
+uuid:"C0C8F24B-C5B7-4DA7-978F-81891D19B542"

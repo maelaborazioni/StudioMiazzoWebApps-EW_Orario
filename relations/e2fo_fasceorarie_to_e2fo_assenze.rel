@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2fo_assenze",
+items:[
+{foreignColumnName:"idassenza",operator:0,primaryDataProviderID:"idassenza",typeid:23,uuid:"F61A2C92-310E-4AFD-AFCA-22651242B7C7"}
+],
+joinType:1,
+name:"e2fo_fasceorarie_to_e2fo_assenze",
+primaryDataSource:"db:/ma_presenze/e2fo_fasceorarie",
+typeid:22,
+uuid:"6D3BC359-8B20-4FFE-BC8C-4AB923C53288"

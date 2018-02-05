@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Statistico | 0\r
+Ordinario/Sostitutivo | 1",
+name:"vls_gest_caus_tipologia",
+returnDataProviders:1,
+showDataProviders:1,
+typeid:34,
+uuid:"23BB29D4-F54A-41FF-BB28-7E75CD98F7FB"

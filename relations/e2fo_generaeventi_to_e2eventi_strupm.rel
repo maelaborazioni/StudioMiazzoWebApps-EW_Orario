@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2eventi",
+items:[
+{foreignColumnName:"idevento",operator:0,primaryDataProviderID:"idevstrupm",typeid:23,uuid:"2B6418C4-6103-421B-861C-444FA354DE1B"}
+],
+joinType:1,
+name:"e2fo_generaeventi_to_e2eventi_strupm",
+primaryDataSource:"db:/ma_presenze/e2fo_generaeventi",
+typeid:22,
+uuid:"AE62798E-CB05-43D8-BB1C-3C5A2C65D735"

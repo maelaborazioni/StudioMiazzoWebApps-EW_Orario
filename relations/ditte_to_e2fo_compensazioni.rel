@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2fo_compensazioni",
+items:[
+{foreignColumnName:"idditta",operator:0,primaryDataProviderID:"idditta",typeid:23,uuid:"47F4DEA1-2271-474B-99C6-280B90EB4ADA"}
+],
+joinType:1,
+name:"ditte_to_e2fo_compensazioni",
+primaryDataSource:"db:/ma_anagrafiche/ditte",
+typeid:22,
+uuid:"12D78060-0AF0-4003-9F2C-0538DC441854"

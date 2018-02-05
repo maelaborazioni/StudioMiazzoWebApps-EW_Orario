@@ -1,0 +1,9 @@
+foreignDataSource:"db:/ma_anagrafiche/ditte",
+items:[
+{foreignColumnName:"idditta",primaryDataProviderID:"idditta",typeid:23,uuid:"5EF5A7E6-3693-4093-91D3-CB744ADE12F1"}
+],
+joinType:1,
+name:"e2timbratureserviziogestione_to_ditte",
+primaryDataSource:"db:/ma_presenze/e2timbratureserviziogestione",
+typeid:22,
+uuid:"E2DC0425-887F-41DB-A7C0-482DDA7C57AE"

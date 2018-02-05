@@ -1,0 +1,8 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2timbratureserviziogestione",
+joinType:1,
+name:"e2timbratureserviziogestione_to_e2timbratureserviziogestione",
+primaryDataSource:"db:/ma_presenze/e2timbratureserviziogestione",
+typeid:22,
+uuid:"DBD51525-38DB-4FB1-B8CF-8FDED395BAAB"

@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:true,
+foreignDataSource:"db:/ma_anagrafiche/ditte",
+items:[
+{foreignColumnName:"idditta",operator:0,primaryDataProviderID:"idditta",typeid:23,uuid:"6870F185-2C9A-4735-B629-7C994A422851"}
+],
+joinType:1,
+name:"e2regole_to_ditte",
+primaryDataSource:"db:/ma_presenze/e2regole",
+typeid:22,
+uuid:"073D6753-E996-4006-B45C-6BE265F29F27"

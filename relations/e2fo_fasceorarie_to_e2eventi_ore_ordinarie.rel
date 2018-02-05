@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/ma_presenze/e2eventi",
+items:[
+{foreignColumnName:"idevento",operator:0,primaryDataProviderID:"idevoreordinarie",typeid:23,uuid:"B55194CB-C85B-4E38-BF40-66F3DC256617"}
+],
+joinType:1,
+name:"e2fo_fasceorarie_to_e2eventi_ore_ordinarie",
+primaryDataSource:"db:/ma_presenze/e2fo_fasceorarie",
+typeid:22,
+uuid:"5AC7270F-17BD-4C23-88A3-5F46C5DC4D48"

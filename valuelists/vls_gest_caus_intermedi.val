@@ -1,0 +1,9 @@
+addEmptyValue:1,
+customValues:"0 - Ignora | 0\r
+1 - Sostituisci con la causalizzata | 1\r
+2 - Inserisci indipendentemente | 2",
+name:"vls_gest_caus_intermedi",
+returnDataProviders:1,
+showDataProviders:1,
+typeid:34,
+uuid:"9858E80D-0AD0-4E71-84E6-4ADB77CD98B0"

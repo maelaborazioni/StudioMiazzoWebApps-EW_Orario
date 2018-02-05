@@ -1,0 +1,9 @@
+addEmptyValue:1,
+customValues:"Centesimi | 0\r
+Volte | 1\r
+Sessantesimi | 2",
+name:"vls_tipo_esposizione",
+returnDataProviders:1,
+showDataProviders:1,
+typeid:34,
+uuid:"7AD32453-51F4-4368-B222-4C339DD7897C"

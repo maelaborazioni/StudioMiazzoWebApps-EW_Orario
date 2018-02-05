@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2eventi",
+items:[
+{foreignColumnName:"idevento",operator:0,primaryDataProviderID:"idevstruam",typeid:23,uuid:"A480D10B-326C-4036-AC61-E47D18B81765"}
+],
+joinType:1,
+name:"e2fo_generaeventi_to_e2eventi_struam",
+primaryDataSource:"db:/ma_presenze/e2fo_generaeventi",
+typeid:22,
+uuid:"EAFD7DB9-6A7B-4B4D-AB65-2B373567AB4F"
