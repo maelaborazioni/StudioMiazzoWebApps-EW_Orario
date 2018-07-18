@@ -25,7 +25,7 @@ var _origSource = '';
 function refreshTree()
 {
 
-	/** @type {JSFoundset<db:/ma_presenze/e2_eventipadre>} */    
+	/** @type {JSFoundSet<db:/ma_presenze/e2_eventipadre>} */    
     var categEvFs = databaseManager.getFoundSet(globals.Server.MA_PRESENZE,'e2_eventipadre');
 	if(_soloStatistici)
 		categEvFs.addFoundSetFilterParam('idevento','=',670);
