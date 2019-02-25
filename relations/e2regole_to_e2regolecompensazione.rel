@@ -1,8 +1,7 @@
-allowCreationRelatedRecords:false,
 allowParentDeleteWhenHavingRelatedRecords:false,
 foreignDataSource:"db:/ma_presenze/e2regolecompensazione",
 items:[
-{foreignColumnName:"idditta",operator:0,primaryDataProviderID:"idditta",typeid:23,uuid:"D23AF360-C8F3-499C-AA9B-1B9DCEEA7EE2"}
+{foreignColumnName:"idregolecompensazione",primaryDataProviderID:"idregolecompensazione",typeid:23,uuid:"D23AF360-C8F3-499C-AA9B-1B9DCEEA7EE2"}
 ],
 joinType:1,
 name:"e2regole_to_e2regolecompensazione",
