@@ -3,6 +3,7 @@ extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
 items:[
 {
 dataProviderID:"arrotondainter",
+editable:false,
 formIndex:14,
 horizontalAlignment:0,
 location:"380,335",
@@ -21,6 +22,7 @@ uuid:"0569B41B-C746-4E18-8CDE-097BA650DE4B"
 },
 {
 dataProviderID:"arrotondauam",
+editable:false,
 formIndex:5,
 horizontalAlignment:0,
 location:"170,335",
@@ -54,6 +56,7 @@ uuid:"0C3FCEE2-1AAB-40BE-ACF0-3F6CE2B669FA"
 },
 {
 dataProviderID:"abbe",
+editable:false,
 formIndex:4,
 horizontalAlignment:0,
 location:"130,220",
@@ -73,6 +76,7 @@ uuid:"102DC7B3-12FA-43BB-9500-D4B515C1426E"
 },
 {
 dataProviderID:"codassenza",
+editable:false,
 horizontalAlignment:0,
 location:"10,70",
 name:"codassenza",
@@ -92,7 +96,8 @@ typeid:7,
 uuid:"1E43A058-CA9B-48DC-9004-975CF7FAB115"
 },
 {
-dataProviderID:"abbupranzo",
+dataProviderID:"abbepranzo",
+editable:false,
 formIndex:5,
 horizontalAlignment:0,
 location:"270,220",
@@ -111,7 +116,8 @@ typeid:7,
 uuid:"27B71E9A-9B67-41B6-B282-E90651525AC2"
 },
 {
-dataProviderID:"abbepranzo",
+dataProviderID:"abbupranzo",
+editable:false,
 formIndex:6,
 horizontalAlignment:0,
 location:"200,220",
@@ -122,6 +128,7 @@ uuid:"288A8CFE-6071-4914-8308-E75D43D7D44F"
 },
 {
 dataProviderID:"arrotondaupm",
+editable:false,
 formIndex:7,
 horizontalAlignment:0,
 location:"310,335",
@@ -155,6 +162,7 @@ uuid:"380331D5-A45A-4CE2-824F-C0EAF2097747"
 },
 {
 dataProviderID:"e2fo_assenze_to_ditte.codice",
+editable:false,
 format:"#",
 horizontalAlignment:0,
 location:"10,25",
@@ -208,6 +216,7 @@ uuid:"63B9BD60-C488-4F9B-B40E-CAAAB4F36DD6"
 },
 {
 dataProviderID:"maxabbuonialgiorno",
+editable:false,
 formIndex:13,
 horizontalAlignment:0,
 location:"160,170",
@@ -218,6 +227,7 @@ uuid:"666F6600-EFA7-4567-983B-5C2DBD826B0B"
 },
 {
 dataProviderID:"arrotondaeam",
+editable:false,
 formIndex:1,
 horizontalAlignment:0,
 location:"100,335",
@@ -268,6 +278,7 @@ uuid:"767339F8-E6AF-4335-A384-40441CE74FE9"
 },
 {
 dataProviderID:"abbu",
+editable:false,
 formIndex:10,
 horizontalAlignment:0,
 location:"340,220",
@@ -324,6 +335,7 @@ uuid:"9C84FC87-83EE-42B3-8152-D7AA3E588C65"
 },
 {
 dataProviderID:"minutimaxabbuonialgiorno",
+editable:false,
 formIndex:3,
 horizontalAlignment:0,
 location:"260,170",
@@ -348,6 +360,7 @@ uuid:"A5F6CAD3-44F3-4C69-9CF3-A4B03009D853"
 },
 {
 dataProviderID:"arrotondaepm",
+editable:false,
 formIndex:9,
 horizontalAlignment:0,
 location:"240,335",
@@ -390,6 +403,7 @@ uuid:"BDB6478A-0628-486A-BAC8-8783E3B27816"
 {
 dataProviderID:"note",
 displayType:1,
+editable:false,
 formIndex:13,
 location:"10,385",
 name:"note",
@@ -413,6 +427,7 @@ uuid:"C113BF38-91DC-4B88-920E-74519F3D3A28"
 },
 {
 dataProviderID:"arrotondatot",
+editable:false,
 formIndex:15,
 horizontalAlignment:0,
 location:"30,335",

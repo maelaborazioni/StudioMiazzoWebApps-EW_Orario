@@ -53,3 +53,19 @@ function totpausa_number()
 {
 	return (totpausa / 100);
 }
+
+/**
+ * @properties={type:8,typeid:36,uuid:"52B8660C-DB9B-4FF0-B342-78621152F9B8"}
+ */
+function iniziofisso_number()
+{
+	return (inizioorariofisso ? inizioorariofisso / 100 : null);
+}
+
+/**
+ * @properties={type:8,typeid:36,uuid:"3808E75E-E7C3-4573-A6EC-65F5877A27D2"}
+ */
+function finefisso_number()
+{
+	return (fineorariofisso ? fineorariofisso / 100 : null);
+}

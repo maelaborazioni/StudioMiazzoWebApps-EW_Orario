@@ -53,6 +53,7 @@ items:[
 {
 containsFormID:"793581C7-2642-4814-973C-AC80367DDDB8",
 location:"122,27",
+relationName:"e2fo_fasceorarie_to_e2fo_alternative",
 text:"orario_fasce_orarie_alternative_tbl",
 typeid:15,
 uuid:"0657BC23-95D4-465F-B435-212CA3711B30"
